@@ -19,6 +19,8 @@ public class Power {
         // TODO code application logic here
         int number = Power.myPow(2, 3);
         System.out.println(number);
+        int number1 = Power.myPow(2, 5);
+        System.out.println(number1);
     }
     public static int myPow(int x, int y){
         if(y == 0){
