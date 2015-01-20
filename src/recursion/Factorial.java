@@ -19,6 +19,7 @@ public class Factorial {
         // TODO code application logic here
          int number = Factorial.factorial(3);
         System.out.println(number);
+        System.out.println(number);
     }
     public static int factorial(int n){
         if(n ==0){
